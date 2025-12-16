@@ -1,8 +1,8 @@
 # Φ-Cosmography · Canon Readiness Declaration
 
-Status: READY  
-Layer: Canon  
-Mode: Read-only  
+Status: READY
+Layer: Canon
+Mode: Read-only
 
 This document declares the Canon layer of Φ-Cosmography
 structurally complete and sealed.
@@ -26,29 +26,4 @@ The Canon layer:
 
 All content is descriptive.
 All relations are static.
-All boundaries are fixed.
-
-## Reader Position
-
-The reader is external.
-
-Meaning, interpretation, decision, and action
-exist outside Canon.
-
-Canon does not observe the reader.
-Canon does not respond.
-
-## Change Policy
-
-Any modification requires:
-- explicit new cycle declaration
-- new version boundary
-- separate audit
-
-Without this, Canon remains immutable.
-
-## Declaration
-
-Φ-Cosmography · Canon  
-is ready for public reading.
-
+Ready for public reading.
