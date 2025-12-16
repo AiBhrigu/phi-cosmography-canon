@@ -5,3 +5,10 @@
   transition: opacity 320ms ease;
   transition-delay: 140ms;
 }
+
+/* Φ · Inner Core — depth framing (A3) */
+/* Single parameter: opacity */
+
+.inner-core {
+  opacity: 0.94;
+}
