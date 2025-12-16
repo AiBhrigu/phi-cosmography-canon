@@ -1,19 +1,20 @@
 # Φ-Cosmography · Canon
 
-This repository is the canonical foundation of Φ-Cosmography.
+Canonical foundation of Φ-Cosmography.
 
 ## Invariants
-- SunCore is an axis, not a module
-- Helion is orbital, never central
-- One effect → one parameter
-- No build artifacts in git
-- No runtime magic
+SunCore is not rendered or addressed as an object. The structure is organized relative to an axis that remains implicit, acting as a cause rather than a visible element.
 
-## Status
+- Helion is orbital (never central)
+- One effect → one parameter
+- No runtime magic
+- No build artifacts
+
+## Mode
 - Read-only
 - Deterministic
 - Public mirror via GitHub Pages
 
 ## Scope
-This repository defines structure and invariants.
+Defines structure and invariants only.
 No experiments. No legacy.
