@@ -10,6 +10,7 @@ No execution. No interpretation.
 - NODE_MAP.md — Structural nodes
 
 ## Registries
+- FAQ.md — Reader clarification (Canon)
 - ATLAS_SPEC.md — Registry layer (spec)
 - FIELD_SPEC.md — Contextual medium (spec)
 - X_DOMAIN_SPEC.md — Frontier corridor (spec)
