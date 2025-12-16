@@ -18,14 +18,12 @@ The relations are static.
 The cause is already defined.
 
 Reading Mode means:
-
 - You read what exists.
 - You do not influence what exists.
 - You do not extract outcomes.
 
 If something appears meaningful,
 that meaning does not come from the system.
-
 It comes from you.
 
 Reading Mode is intentional.
