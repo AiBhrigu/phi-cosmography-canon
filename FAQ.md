@@ -1,5 +1,9 @@
 # Φ-Cosmography · FAQ
 
+This document operates under **Reading Mode**.
+See: [Reading Mode](./READING_MODE.md)
+
+
 ## What is this site?
 
 This site presents **Cosmography** — a structural description of reality.

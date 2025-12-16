@@ -1,5 +1,9 @@
 # Reading Mode
 
+See also:
+- [FAQ](./FAQ.md)
+
+
 This site operates in Reading Mode.
 
 Nothing here reacts to you.
