@@ -1,48 +1,32 @@
-# Φ-Cosmography · Final Audit Manifest
+# Φ-Cosmography · Final Audit (Canon)
 
-Scope:
-Canon layer only.
+Status: FINAL CHECK
+Mode: Read-only / Spec-only
 
-Purpose:
-Confirm structural integrity before public reading.
+## Canon invariants
+- No execution
+- No mutation
+- No agency
+- No authority
+- No memory
+- No personalization
+- No interaction
+- No UI
+- No runtime
 
-## Invariants Check
+## Structural layers
+- Canon (cause)
+- Field (context)
+- Atlas (registry)
+- Observer (read-only)
+- X-Domain (boundary)
 
-- Canon is read-only
-- No execution logic present
-- No UI, styles, scripts, or animation
-- No interaction or state mutation
-- No authority or agency defined
-- No center rendered
-- Implicit axis only
+## Guarantees
+- No promises
+- No outcomes
+- No actions
+- No instructions
 
-## Layer Integrity
-
-- Canon: sealed (FREEZE.md present)
-- Light: external, non-mutating
-- Field: spec-only
-- Atlas: registry-only
-- Observer: read-only
-- X-Domain: boundary-only
-
-## Semantic Closure
-
-- What Cosmography is — defined
-- What Cosmography is not — defined
-- Reading Mode — defined
-- Visitor Boundary — defined
-- Glossary — defined
-
-## Contamination Check
-
-- No runtime directories
-- No executable artifacts
-- No personalization language
-- No promises, outcomes, or results
-
-## Status
-
-Canon is structurally complete.
-Canon is safe for public reading.
-No further changes without new cycle declaration.
-
+If all checks pass:
+Canon is sealed.
+Any change requires a new cycle declaration.
