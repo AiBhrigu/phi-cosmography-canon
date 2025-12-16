@@ -1,0 +1,7 @@
+/* Φ · Helion — orbital rhythm (A1) */
+/* Single parameter: pause via transition-delay */
+
+.helion {
+  transition: opacity 320ms ease;
+  transition-delay: 140ms;
+}
