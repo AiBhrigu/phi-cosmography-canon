@@ -39,3 +39,10 @@ Any change requires:
 - duplicated paths
 - visual magic as compensation
 - naming the center
+
+## Forbidden Forever
+
+- Naming the center
+- Visual compensation instead of structure
+- Multiple parameters for one effect
+- dist/ or build artifacts in git
