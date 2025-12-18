@@ -136,3 +136,10 @@ Read-only. Canon reference.
 ### Active candidates (фикс на 2025-12-18)
 - `/home/bhrigu/phi-cosmography-open` (origin: `git@github.com:AiBhrigu/phi-cosmography-open.git`)
 - `/home/bhrigu/phi-cosmography-light` (origin: `https://github.com/AiBhrigu/phi-cosmography-light.git`)
+
+---
+
+## RISK · MAIN-HISTORY-REWRITE · No history rewrite on main (Safety)
+**Rule:** ветка `main` — только fast-forward коммиты. Запрещены: `rebase`, `reset --hard`, `push --force`, переписывание истории.
+**Allowed:** `revert` (как аварийный откат), новые коммиты поверх, теги для фиксации состояния.
+**Reason:** сохраняем трассируемость и исключаем “цепные поломки” при исполнении атомов.
