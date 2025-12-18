@@ -143,3 +143,14 @@ Read-only. Canon reference.
 **Rule:** ветка `main` — только fast-forward коммиты. Запрещены: `rebase`, `reset --hard`, `push --force`, переписывание истории.
 **Allowed:** `revert` (как аварийный откат), новые коммиты поверх, теги для фиксации состояния.
 **Reason:** сохраняем трассируемость и исключаем “цепные поломки” при исполнении атомов.
+
+---
+
+## RISK · NO-EDIT-IN-ARTIFACTS · No edits in artifacts (dist/worktrees/_backup)
+**Rule:** запрещены правки в сборочных слепках и служебных деревьях:
+- `.git/worktrees/**`
+- `**/dist/**`
+- `**/_backup_*/**`
+
+**Reason:** это не “истина”, а артефакты/копии → дрейф, фантомные фиксы, расхождение состояния.
+**Guard:** любые изменения делаем только в Active Repo (см. `canon/specs/COSMOGRAPHY_SOURCE_OF_TRUTH.md`).
