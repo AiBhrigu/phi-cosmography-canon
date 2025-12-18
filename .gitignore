@@ -9,3 +9,6 @@ node_modules/
 .DS_Store
 
 .session_anchor
+
+.session_anchor
+canon/specs/*.md
