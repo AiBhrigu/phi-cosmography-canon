@@ -7,3 +7,5 @@ node_modules/
 
 # system
 .DS_Store
+
+.session_anchor
